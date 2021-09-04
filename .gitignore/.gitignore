@@ -1,0 +1,319 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-left">
+            <li><a href="#">ITS VILLA EL LIBERTADOR</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-center">
+            <li><a href="#">TECNICATURAS</a></li>
+            <li><a href="#">INFORMACION</a></li>
+            <li><a href="#">CONTACTO</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Right</a></li>
+        </ul>
+    </div>
+</nav>
+                                                                         <img src="images/logo-azul.jpg" alt="">
+            <div class="carousel-caption">
+                <h3></h3>
+                <p></p>
+            </div>
+        </div>
+        
+
+<!-- Fixed bottom -->
+<nav class="navbar fixed-bottom navbar-light bg-light">
+  <a class="navbar-brand" href="#">Tu formación Técnico Profesional en Córdoba </a>
+</nav>
+
+<!-- Sticky top -->
+<nav class="navbar sticky-top navbar-light bg-light">
+  <a class="navbar-brand" href="#">.</a>
+</nav>
+<!-- Contenedor externo -->
+<div class="container">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Extension Aulica Villa El Libertador</a>
+  </nav>
+</div>
+
+
+<!-- Contenedor interno -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+    <a class="navbar-brand" href="#"></a>
+  </div>
+</nav>
+<nav class="navbar navbar-dark bg-dark">
+  <!-- ... -->
+</nav>
+
+<nav class="navbar navbar-dark bg-primary">
+  <!-- ... -->
+</nav>
+
+<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+  <!-- ... -->
+</nav>
+<div id="myCarouselCustom" class="carousel slide" data-ride="carousel">
+<!-- Compiled and minified Bootstrap CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
+<!-- Minified JS library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!-- Compiled and minified Bootstrap JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" ></script>
+ <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#myCarouselCustom" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarouselCustom" data-slide-to="1"></li>
+        <li data-target="#myCarouselCustom" data-slide-to="2"></li>
+        <li data-target="#myCarouselCustom" data-slide-to="3"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <img src="images/c1.jpg" alt="">
+            <div class="carousel-caption">
+                <h3></h3>
+                <p>Tecnicatura Superior en Desarrollo de software</p>
+            </div>
+        </div>
+  
+        <div class="item">
+            <img src="images/c2.jpg" alt="">
+            <div class="carousel-caption">
+                <h3></h3>
+                <p></p>
+            </div>
+        </div>
+        
+        <div class="item">
+            <img src="images/c3.jpg" alt="">
+            <div class="carousel-caption">
+                <h3></h3>
+                <p>Tecnicatura Superior en Enfermeria </p>
+            </div>
+        </div>
+    </div>
+     
+<!-- Controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+<!-- Custom Controls -->
+<a href="javascript:void(0);" id="prevBtn">Prev Slide</a>
+<a href="javascript:void(0);" id="nextBtn">Next Slide</a>
+
+<!-- Contenedor interno -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+    <a class="navbar-brand" href="#"></a>
+  </div>
+</nav>
+<nav class="navbar navbar-dark bg-dark">
+  <!-- ... -->
+</nav>
+
+<nav class="navbar navbar-dark bg-primary">
+  <!-- ... -->
+</nav>
+
+<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+  <!-- ... -->
+
+ <div class="container">   
+       <h1>TECNICATURAS</h1>
+   <div class="card m-2" style="width: 300px;">
+  <img class="card-img-top" src="images/software.jpg" alt="software.jpg"/>
+  <div class="card-body">
+    <h2 class="card-title">Tecnicatura superior en desarrollo de software</h2>
+    <p class="card-text"></p></h2>
+    <p class="card-text">El Técnico Superior en Desarrollo de Software estará capacitado para producir componentes de software, lo que comprende su diseño detallado, construcción y realización de verificación unitaria de los mismos, así como su depuración, optimización y mantenimiento; desarrollando las actividades descriptas en el perfil profesional y cumpliendo con los criterios de realización establecidos para las mismas en el marco de un equipo de trabajo organizado por proyecto.</p>
+    <a href="#" class="btn btn-secondary">Learn more</a>
+  </div>
+</div>
+
+<div class="card m-2" style="width: 300px;">
+<img class="card-img-bottom" src="images/enfermeria.jpg" alt="enfermeria.jpg"/>
+  <div class="card-body">
+    <h2 class="card-title"> </p> Tecnicatura superior en Enfermeria</h2>
+     <p class="card-text"></p>Los conocimientos y habilidades desarrolladas durante su formación le permiten a la/el Enfermera/o el ejercicio profesional en relación de dependencia y en forma libre, desarrollando, brindando y gestionando los cuidados de enfermería autónomos e interdependientes para la promoción, prevención, recuperación y rehabilitación de la persona, la familia, grupo y comunidad hasta el nivel de complejidad de cuidados intermedios, en los ámbitos comunitario y hospitalario en las distintas etapas del ciclo vital; gestionando su ámbito de trabajo y participando en estudios de investigación-acción.</h2>
+    <a href="#" class="btn btn-secondary">Learn more</a>
+  </div>
+    
+</div>
+              <a href="#" class="btn btn-primary">Entrar</a>
+            </div>                     
+          </div>          
+      </div>
+      
+    </div>
+  </div>
+</body>
+</html>
+<!-- Contenedor interno -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+    <a class="navbar-brand" href="#"></a>
+  </div>
+</nav>
+<nav class="navbar navbar-dark bg-dark">
+  <!-- ... -->
+</nav>
+
+<nav class="navbar navbar-dark bg-primary">
+  <!-- ... -->
+</nav>
+
+<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+  <!-- ... -->
+
+   </div>
+</div>
+</div>
+<form>
+  <div class="form-group row">
+    <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+    <div class="col-sm-10">
+      <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword3" class="col-sm-2 col-form-label">Password</label>
+    <div class="col-sm-10">
+      <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
+    </div>
+  </div>
+  <div class="form-group row">
+    <div class="col-sm-2">Checkbox</div>
+    <div class="col-sm-10">
+      <div class="form-check">
+    <label class="form-check-label">
+      <input class="form-check-input" type="checkbox"> Check me out
+    </label>
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <div class="col-sm-10">
+      <button type="submit" class="btn btn-primary">Sign in</button>
+    </div>
+  </div>
+</form>
+<form>
+<!-- Contenedor interno -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+    <a class="navbar-brand" href="#"></a>
+  </div>
+</nav>
+<nav class="navbar navbar-dark bg-dark">
+  <!-- ... -->
+</nav>
+
+<nav class="navbar navbar-dark bg-primary">
+  <!-- ... -->
+</nav>
+
+<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+  <!-- ... -->
+
+  <div class="container">   
+       <h1>INFORMACION</h1>
+    <div class="row">       
+      <div class="col-md">        
+          <div class="card">
+            <img src="images/logo 2018.jpg" alt="">        
+            <div class="card-body">
+              <h4 class="card-title">Ubicacion de la escuela </h4>
+              <p class="card-text">Escuela "Marta Juana González". Defensa esq. Bermejo (En  frente diagonal del Hospital Principe de Asturias). B° Villa El Libertador. Linea de colectivo: 33. </p>
+              <a href="#" class="btn btn-primary">Entrar</a>
+            </div>
+          </div>          
+      </div>
+<!-- Contenedor interno -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+    <a class="navbar-brand" href="#"></a>
+  </div>
+</nav>
+<nav class="navbar navbar-dark bg-dark">
+  <!-- ... -->
+</nav>
+
+<nav class="navbar navbar-dark bg-primary">
+  <!-- ... -->
+</nav>
+
+<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+  <!-- ... -->
+<!-- INICIO FORMULARIO HTML -->
+<form method="POST" action="/index.php" class="needs-validation" novalidate>
+
+    <div class="form-row mt-5">
+        <div class="col-md-4 mb-3">
+            <label for="validarNombre">Nombre:<span class="red">*</span></label>
+            <input type="text" class="form-control" id="validarNombre" name="validarNombre" required>
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="col-md-4 mb-3">
+            <label for="validarApellidos">Apellidos:<span class="red">*</span></label>
+            <input type="text" class="form-control" id="validarApellidos" name="validarApellidos" required>
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="col-md-4 mb-3">
+            <label for="validarEmail">Email:<span class="red">*</span></label>
+            <input type="email" class="form-control" id="validarEmail" name="validarEmail" required>
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="col-md-4 mb-3">
+            <label for="validarTelefono">Teléfono:</label>
+            <input type="number" class="form-control" id="validarTelefono" name="validarTelefono" max="999999999">
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="col-md-4 mb-3">
+            <label for="validarTema">Carrera:<span class="red">*</span></label>
+            <select class="custom-select" id="validarTema" name="validarTema" required>
+                <option selected disabled value="">Selecciona...</option>
+                <option value=" Enfermeria">Enfermeria</option>
+                <option value="Desarrollo de software">Desarrollo de software</option>
+                
+            </select>
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="col-md-4 mb-3">
+            <label for="validarAsunto">Asunto:</label>
+            <input type="text" class="form-control" id="validarAsunto" name="validarAsunto" required>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="validationMensaje">Mensaje:<span class="red">*</span></label>
+        <textarea class="form-control" id="validationMensaje" name="validationMensaje" rows="3" min="25" required></textarea>
+    </div>
+
+    <div class="form-group mb-10">
+        <button class="btn btn-primary" type="submit" name="submit">Enviar</button>
+        <button class="btn btn-success" type="reset" name="reset">Limpiar</button>
+    </div>
+-
+</form>
